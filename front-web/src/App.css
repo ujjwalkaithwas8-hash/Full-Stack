@@ -1,0 +1,4 @@
+@import "tailwindcss";
+body { background: #fff; color: #111827; font-family: system-ui, sans-serif; }
+input, select, textarea { border: 1px solid #e5e7eb; border-radius: .5rem; padding: .65rem .9rem; width: 100%; background: #fff; }
+input:focus, select:focus, textarea:focus { outline: 2px solid #D4AF37; border-color: transparent; }
